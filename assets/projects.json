@@ -1,0 +1,292 @@
+[
+  {
+    "id": "original-05",
+    "name": "Equinix Data Center Fit-Out",
+    "value_cad": 80000000,
+    "approximate": false,
+    "employer": "Pomerleau",
+    "sector": "Mission-Critical",
+    "description": "AI data center fit-out supporting high-density computing",
+    "delivery": "Construction Management",
+    "shortName": "Equinix · 80M Fit-Out",
+    "alias": "TR7 identifier pending reconciliation"
+  },
+  {
+    "id": "added-equinix-20",
+    "name": "Equinix Data Center",
+    "value_cad": 20000000,
+    "approximate": false,
+    "employer": "Pomerleau",
+    "sector": "Mission-Critical",
+    "description": "Data center project",
+    "delivery": "Construction Management",
+    "shortName": "Equinix · 20M Project",
+    "alias": "CR7 TR7 identifier pending reconciliation"
+  },
+  {
+    "id": "added-barrie",
+    "name": "Barrie Data Center",
+    "value_cad": 100000000,
+    "approximate": false,
+    "employer": "Pomerleau",
+    "sector": "Mission-Critical",
+    "description": "Data center preconstruction",
+    "delivery": "Lump Sum",
+    "stage": "Preconstruction"
+  },
+  {
+    "id": "original-03",
+    "name": "Stevenson Memorial Hospital",
+    "value_cad": 200000000,
+    "approximate": false,
+    "employer": null,
+    "sector": "Healthcare",
+    "description": "Hospital expansion and modernization",
+    "delivery": "GMP / Lump Sum"
+  },
+  {
+    "id": "added-opp",
+    "name": "OPP Buildings and Parking Garage",
+    "value_cad": 170000000,
+    "approximate": true,
+    "employer": "Pomerleau",
+    "sector": "Institutional",
+    "description": "Police buildings and parking garage",
+    "delivery": "Design-Build",
+    "shortName": "OPP Buildings & Parking Garage"
+  },
+  {
+    "id": "added-mcmichael",
+    "name": "McMichael Art Gallery Renovation",
+    "value_cad": 150000000,
+    "approximate": false,
+    "employer": "Pomerleau",
+    "sector": "Cultural",
+    "description": "Art gallery renovation",
+    "delivery": "Construction Management",
+    "shortName": "McMichael Art Gallery"
+  },
+  {
+    "id": "added-yrt",
+    "name": "YRT Bus Facility Redevelopment",
+    "value_cad": 80000000,
+    "approximate": false,
+    "employer": "Pomerleau",
+    "sector": "Transit",
+    "description": "Bus facility redevelopment",
+    "delivery": "Lump Sum",
+    "alias": "YRT OMSF Redevelopment",
+    "shortName": "YRT Bus Facility"
+  },
+  {
+    "id": "original-07",
+    "name": "Innovation Centre, 154 Wicksteed Ave, Toronto",
+    "value_cad": 60000000,
+    "approximate": false,
+    "employer": null,
+    "sector": "Laboratory & R&D",
+    "description": "100,000 sf laboratory and R&D facility",
+    "delivery": "Design-Build"
+  },
+  {
+    "id": "original-04",
+    "name": "Downsview Servicing & Civil Works",
+    "value_cad": 20000000,
+    "approximate": false,
+    "employer": null,
+    "sector": "Civil & Infrastructure",
+    "description": "Site servicing and infrastructure package",
+    "delivery": "GMP / Lump Sum"
+  },
+  {
+    "id": "original-21",
+    "name": "Royal Titanium, Surat, India",
+    "value_cad": 20000000,
+    "approximate": false,
+    "employer": null,
+    "sector": "Industrial",
+    "description": "Industrial facility",
+    "delivery": "Construction Management"
+  },
+  {
+    "id": "original-02",
+    "name": "Archive One",
+    "value_cad": 20000000,
+    "approximate": false,
+    "employer": null,
+    "sector": "Institutional",
+    "description": "280,000 sf archive and data storage facility",
+    "delivery": "Design-Build"
+  },
+  {
+    "id": "added-provincial",
+    "name": "Provincial Court & Administration Facility",
+    "value_cad": 20000000,
+    "approximate": false,
+    "employer": "Pomerleau",
+    "sector": "Institutional",
+    "description": "Court and administration facility",
+    "delivery": "Lump Sum"
+  },
+  {
+    "id": "original-09",
+    "name": "Stouffville Medical Arts, ON",
+    "value_cad": 20000000,
+    "approximate": false,
+    "employer": null,
+    "sector": "Healthcare",
+    "description": "25,000 sf medical office building",
+    "delivery": "Construction Management"
+  },
+  {
+    "id": "original-14",
+    "name": "Boxgrove Bld & Site Work",
+    "value_cad": 15000000,
+    "approximate": false,
+    "employer": null,
+    "sector": "Industrial",
+    "description": "Smart storage facility and site works",
+    "delivery": "Design-Bid-Build"
+  },
+  {
+    "id": "original-15",
+    "name": "78 Railside Road Renovation",
+    "value_cad": 10000000,
+    "approximate": false,
+    "employer": null,
+    "sector": "Industrial",
+    "description": "Industrial facility upgrade and renovation",
+    "delivery": "Construction Management"
+  },
+  {
+    "id": "original-13",
+    "name": "JP Development - Earthworks",
+    "value_cad": 6000000,
+    "approximate": false,
+    "employer": null,
+    "sector": "Industrial",
+    "description": "Mass excavation and grading",
+    "delivery": "Design-Bid-Build"
+  },
+  {
+    "id": "original-22",
+    "name": "EWS-I Flats & Shops, India",
+    "value_cad": 70000000,
+    "approximate": false,
+    "employer": null,
+    "sector": "Residential",
+    "description": "Residential and retail development with ten towers",
+    "delivery": "EPC"
+  },
+  {
+    "id": "original-01",
+    "name": "591 Finch Avenue, Toronto",
+    "value_cad": 60000000,
+    "approximate": false,
+    "employer": null,
+    "sector": "Residential",
+    "description": "12-storey, 90,000 sf apartment building",
+    "delivery": "Design-Bid-Build"
+  },
+  {
+    "id": "original-06",
+    "name": "Inn from the Cold, Newmarket",
+    "value_cad": 10000000,
+    "approximate": false,
+    "employer": null,
+    "sector": "Residential",
+    "description": "Three-storey shelter and affordable housing, 25,000 sf",
+    "delivery": "Design-Build"
+  },
+  {
+    "id": "original-08",
+    "name": "Gabriel Dumont, Metro Toronto",
+    "value_cad": 40000000,
+    "approximate": false,
+    "employer": null,
+    "sector": "Residential",
+    "description": "Six-storey affordable housing",
+    "delivery": "Not specified",
+    "stage": "Pre-qualification / CCDC 2"
+  },
+  {
+    "id": "original-10",
+    "name": "Conant Place, Oshawa",
+    "value_cad": 20000000,
+    "approximate": false,
+    "employer": null,
+    "sector": "Residential",
+    "description": "Three-storey affordable housing, 55,000 sf",
+    "delivery": "Design-Bid-Build"
+  },
+  {
+    "id": "original-11",
+    "name": "Bolton Retirement Home, ON",
+    "value_cad": 35000000,
+    "approximate": false,
+    "employer": null,
+    "sector": "Residential",
+    "description": "Senior living facility",
+    "delivery": "Design-Build"
+  },
+  {
+    "id": "original-12",
+    "name": "Belleville Apartment Building",
+    "value_cad": 20000000,
+    "approximate": false,
+    "employer": null,
+    "sector": "Residential",
+    "description": "Three-storey rental apartment building",
+    "delivery": "Construction Management"
+  },
+  {
+    "id": "original-16",
+    "name": "Shopper Drug Mart, New Liskeard",
+    "value_cad": 4000000,
+    "approximate": false,
+    "employer": null,
+    "sector": "Commercial",
+    "description": "Retail store renovation",
+    "delivery": "Design-Bid-Build"
+  },
+  {
+    "id": "original-17",
+    "name": "Niagara Falls Townhouses, Thorold",
+    "value_cad": 20000000,
+    "approximate": false,
+    "employer": null,
+    "sector": "Residential",
+    "description": "Townhouses within a mixed development",
+    "delivery": "Design-Bid-Build"
+  },
+  {
+    "id": "original-18",
+    "name": "VSC Soccer Facility",
+    "value_cad": 8000000,
+    "approximate": false,
+    "employer": null,
+    "sector": "Recreation",
+    "description": "Soccer sports complex",
+    "delivery": "Construction Management"
+  },
+  {
+    "id": "original-19",
+    "name": "Pentangushene Restoration Project",
+    "value_cad": 2000000,
+    "approximate": false,
+    "employer": null,
+    "sector": "Restoration",
+    "description": "Fire-loss restoration and retrofit",
+    "delivery": "Not specified"
+  },
+  {
+    "id": "original-20",
+    "name": "Main St Development, Stouffville",
+    "value_cad": 1500000,
+    "approximate": false,
+    "employer": null,
+    "sector": "Civil & Infrastructure",
+    "description": "Civil works and site servicing",
+    "delivery": "Construction Management"
+  }
+]

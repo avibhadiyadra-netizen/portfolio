@@ -1,0 +1,29 @@
+﻿Project,Sector,Delivery,Stage,Value CAD,Approximate,Employer,Scope
+Equinix Data Center Fit-Out,Mission-Critical,Construction Management,,80000000,False,Pomerleau,AI data center fit-out supporting high-density computing
+Equinix Data Center,Mission-Critical,Construction Management,,20000000,False,Pomerleau,Data center project
+Barrie Data Center,Mission-Critical,Lump Sum,Preconstruction,100000000,False,Pomerleau,Data center preconstruction
+Stevenson Memorial Hospital,Healthcare,GMP / Lump Sum,,200000000,False,,Hospital expansion and modernization
+OPP Buildings and Parking Garage,Institutional,Design-Build,,170000000,True,Pomerleau,Police buildings and parking garage
+McMichael Art Gallery Renovation,Cultural,Construction Management,,150000000,False,Pomerleau,Art gallery renovation
+YRT Bus Facility Redevelopment,Transit,Lump Sum,,80000000,False,Pomerleau,Bus facility redevelopment
+"Innovation Centre, 154 Wicksteed Ave, Toronto",Laboratory & R&D,Design-Build,,60000000,False,,"100,000 sf laboratory and R&D facility"
+Downsview Servicing & Civil Works,Civil & Infrastructure,GMP / Lump Sum,,20000000,False,,Site servicing and infrastructure package
+"Royal Titanium, Surat, India",Industrial,Construction Management,,20000000,False,,Industrial facility
+Archive One,Institutional,Design-Build,,20000000,False,,"280,000 sf archive and data storage facility"
+Provincial Court & Administration Facility,Institutional,Lump Sum,,20000000,False,Pomerleau,Court and administration facility
+"Stouffville Medical Arts, ON",Healthcare,Construction Management,,20000000,False,,"25,000 sf medical office building"
+Boxgrove Bld & Site Work,Industrial,Design-Bid-Build,,15000000,False,,Smart storage facility and site works
+78 Railside Road Renovation,Industrial,Construction Management,,10000000,False,,Industrial facility upgrade and renovation
+JP Development - Earthworks,Industrial,Design-Bid-Build,,6000000,False,,Mass excavation and grading
+"EWS-I Flats & Shops, India",Residential,EPC,,70000000,False,,Residential and retail development with ten towers
+"591 Finch Avenue, Toronto",Residential,Design-Bid-Build,,60000000,False,,"12-storey, 90,000 sf apartment building"
+"Inn from the Cold, Newmarket",Residential,Design-Build,,10000000,False,,"Three-storey shelter and affordable housing, 25,000 sf"
+"Gabriel Dumont, Metro Toronto",Residential,Not specified,Pre-qualification / CCDC 2,40000000,False,,Six-storey affordable housing
+"Conant Place, Oshawa",Residential,Design-Bid-Build,,20000000,False,,"Three-storey affordable housing, 55,000 sf"
+"Bolton Retirement Home, ON",Residential,Design-Build,,35000000,False,,Senior living facility
+Belleville Apartment Building,Residential,Construction Management,,20000000,False,,Three-storey rental apartment building
+"Shopper Drug Mart, New Liskeard",Commercial,Design-Bid-Build,,4000000,False,,Retail store renovation
+"Niagara Falls Townhouses, Thorold",Residential,Design-Bid-Build,,20000000,False,,Townhouses within a mixed development
+VSC Soccer Facility,Recreation,Construction Management,,8000000,False,,Soccer sports complex
+Pentangushene Restoration Project,Restoration,Not specified,,2000000,False,,Fire-loss restoration and retrofit
+"Main St Development, Stouffville",Civil & Infrastructure,Construction Management,,1500000,False,,Civil works and site servicing
