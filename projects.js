@@ -12,14 +12,14 @@ const PROJECTS = [
   },
   {
     "id": "added-equinix-20",
-    "name": "Equinix Data Center",
+    "name": "Equinix TR7 Data Center",
     "value_cad": 20000000,
     "approximate": false,
     "employer": "Pomerleau",
     "sector": "Mission-Critical",
     "description": "Data center project: critical power and cooling infrastructure",
     "delivery": "Construction Management",
-    "shortName": "Equinix · 20M Project"
+    "shortName": "Equinix TR7 · 20M"
   },
   {
     "id": "added-barrie",

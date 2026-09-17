@@ -13,3 +13,93 @@
 .noscript-grid{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:13px;padding:20px 0}.noscript-note{grid-column:1/-1;margin:0;font-size:12px;color:var(--muted)}.noscript-note a{color:#c1d7e8;text-decoration:underline}.noscript-grid article{min-width:0;padding:16px;border:1px solid var(--line);border-radius:5px;background:#0a1016}.noscript-grid h3{margin:0 0 4px;font-size:14px;font-weight:500;line-height:1.4}.noscript-grid article p{margin:0 0 10px;font-size:11px;color:#8b9ba7}.noscript-grid span{display:block;font-size:10px;color:#afbbc5}.noscript-grid b{display:block;margin-top:6px;font-size:12px;font-weight:400}
 @media(max-width:850px){.noscript-grid{grid-template-columns:1fr 1fr}}
 @media(max-width:540px){.noscript-grid{grid-template-columns:1fr}}
+/* Theme switch (header) */
+.header-actions{display:flex;align-items:center;gap:14px}
+.theme-toggle{position:relative;flex:none;display:inline-flex;align-items:center;justify-content:space-between;width:64px;height:34px;padding:0 9px;border:1px solid #ffffff49;border-radius:30px;background:#0b141c59;color:#e7edf2;-webkit-backdrop-filter:blur(8px);backdrop-filter:blur(8px);transition:background .2s,border-color .2s}
+.theme-toggle[hidden]{display:none}
+.theme-toggle:hover{background:#ffffff1f;border-color:#ffffff80}
+.theme-toggle svg{position:relative;z-index:1;width:14px;height:14px;fill:none;stroke:currentColor;stroke-width:2;stroke-linecap:round;stroke-linejoin:round}
+.theme-knob{position:absolute;top:3px;left:3px;width:26px;height:26px;border-radius:50%;background:#adc7dc40;border:1px solid #c4e2fb;transition:transform .25s}
+.theme-toggle[aria-checked=true] .theme-knob{transform:translateX(30px)}
+/* Light theme: hero photo and header stay dark; the page below reads like a clean drawing sheet */
+[data-theme=light]{--bg:#f4f6f8;--panel:#fff;--text:#14202a;--muted:#51606c;--line:#14202a1f;--accent:#2f5d7c;color-scheme:light}
+[data-theme=light] .header,[data-theme=light] .hero{color:#f3f4f4}
+[data-theme=light] ::selection{background:#cfe0ec;color:#14202a}
+[data-theme=light] :is(button,a,input,select,[tabindex]):focus-visible{outline-color:#2f5d7c}
+[data-theme=light] :is(.hero,.header) :is(button,a,input,select,[tabindex]):focus-visible{outline-color:#c4e2fb}
+[data-theme=light] .progress{background:#2f5d7c}
+[data-theme=light] .mobile-nav{background:#fff;color:#14202a;box-shadow:0 14px 30px #14202a1f}
+[data-theme=light] .stats{background:#fff}
+[data-theme=light] .stats>div{border-left-color:#14202a24}
+[data-theme=light] .eyebrow i{background:#2f5d7c}
+[data-theme=light] .section-strip .eyebrow span{color:#51606c}
+[data-theme=light] .small-button{border-color:#14202a3d}
+[data-theme=light] .small-button:hover{background:#14202a0d}
+[data-theme=light] .feature-card{background:#fff}
+[data-theme=light] .feature-card:hover{border-color:#2f5d7c}
+[data-theme=light] .card-arrow{border-color:#14202a40}
+[data-theme=light] .abstract-art{background:radial-gradient(ellipse at 80% 0%,#dde7ee,#f1f5f8 70%)}
+[data-theme=light] .abstract-art svg{color:#2f5d7c;opacity:.7}
+[data-theme=light] .abstract-art svg g{fill:#e8eef3}
+[data-theme=light] .sector-word{color:#3c4b57}
+[data-theme=light] .card-art>small{background:#ffffffeb;color:#3c4b57}
+[data-theme=light] .process-tab:after{background:#14202a26}
+[data-theme=light] .process-tab .step-icon{border-color:#14202a40;background:#fff;color:#2f5d7c}
+[data-theme=light] .process-tab[aria-selected=true] .step-icon{background:#2f5d7c1f;border-color:#2f5d7c;color:#14202a;box-shadow:0 0 0 4px #2f5d7c1a}
+[data-theme=light] .process-tab small{color:#51606c}
+[data-theme=light] .process-panel{border-left-color:#2f5d7c;background:#fff}
+[data-theme=light] .process-panel p{color:#3c4b57}
+[data-theme=light] h2 em{color:#5a6f80}
+[data-theme=light] .about-copy .lead{color:#1d2a34}
+[data-theme=light] .status-dot{background:#3f8f5a}
+[data-theme=light] .filters{background:#fff}
+[data-theme=light] .filters label{color:#51606c}
+[data-theme=light] .filters input,[data-theme=light] .filters select{background:#f4f6f8;border-color:#14202a2e;color:#14202a}
+[data-theme=light] .filters select option{background:#fff}
+[data-theme=light] .results-bar a,[data-theme=light] .noscript-note a{color:#2f5d7c}
+[data-theme=light] .project-row:hover{background:#14202a08}
+[data-theme=light] .project-row .num{color:#5b6a76}
+[data-theme=light] .project-row .scope{color:#51606c}
+[data-theme=light] .project-row .sector,[data-theme=light] .project-row .delivery{color:#3c4b57}
+[data-theme=light] .project-row .arrow{color:#2f5d7c}
+[data-theme=light] .portfolio-note{color:#5b6a76}
+[data-theme=light] .lab-section{background:#e9eef2}
+[data-theme=light] .tool{background:#fff;border-color:#14202a1a}
+[data-theme=light] .tool p,[data-theme=light] .tool small{color:#51606c}
+[data-theme=light] .tool output{color:#14202a}
+[data-theme=light] .bid-chart i,[data-theme=light] .maturity-chart span.on:before{background:linear-gradient(90deg,#8fb0c8,#2f5d7c)}
+[data-theme=light] .tool input[type=range],[data-theme=light] .risk-options input{accent-color:#2f5d7c}
+[data-theme=light] .option-buttons button{border-color:#14202a3d}
+[data-theme=light] .option-buttons button[aria-pressed=true]{background:#2f5d7c1f;border-color:#2f5d7c;color:#14202a}
+[data-theme=light] .ve-metric span,[data-theme=light] .risk-options span,[data-theme=light] .risk-total{color:#51606c}
+[data-theme=light] .risk-total output{color:#14202a}
+[data-theme=light] .software>span{color:#2f5d7c}
+[data-theme=light] .software p{color:#3c4b57}
+[data-theme=light] .maturity-chart span{color:#5b6a76}
+[data-theme=light] .maturity-chart span:before{background:#14202a14}
+[data-theme=light] .maturity-chart span.current{color:#14202a}
+[data-theme=light] .timeline time{color:#5b6a76}
+[data-theme=light] .timeline span{color:#3c4b57}
+[data-theme=light] .timeline p{color:#51606c}
+[data-theme=light] .credentials span{color:#2f5d7c}
+[data-theme=light] .credentials p{color:#3c4b57}
+[data-theme=light] .why{background:linear-gradient(115deg,#e3eaf0,#f7f9fb)}
+[data-theme=light] .why-grid>div>p:not(.eyebrow){color:#3c4b57}
+[data-theme=light] .alignment article{border-top-color:#14202a2e}
+[data-theme=light] .alignment article>span{color:#2f5d7c}
+[data-theme=light] .alignment p{color:#51606c}
+[data-theme=light] .why .button.light{background:#2f5d7c14;border-color:#2f5d7c99}
+[data-theme=light] .why .button.light:hover{background:#2f5d7c29;border-color:#2f5d7c}
+[data-theme=light] .site-footer{color:#51606c}
+[data-theme=light] .site-footer button{color:#2f5d7c}
+[data-theme=light] dialog{background:#fff;border-color:#14202a2e;box-shadow:0 30px 80px #14202a33}
+[data-theme=light] dialog::backdrop{background:#14202a8c}
+[data-theme=light] .dialog-metrics small,[data-theme=light] .dialog-source{color:#51606c}
+[data-theme=light] .dialog-section h3{color:#2f5d7c}
+[data-theme=light] .dialog-section p,[data-theme=light] .dialog-section li,[data-theme=light] #credits-dialog p{color:#3c4b57}
+[data-theme=light] .dialog-note{color:#5b6a76}
+[data-theme=light] .noscript-grid article{background:#fff}
+[data-theme=light] .noscript-grid article p{color:#51606c}
+[data-theme=light] .noscript-grid span{color:#3c4b57}
+/* Narrow desktops (851-1000px): tighter header so the theme switch fits */
+@media(max-width:1000px){.header{gap:14px}.desktop-nav{gap:12px}.header-actions{gap:10px}.theme-toggle{width:56px;height:30px;padding:0 7px}.theme-knob{width:22px;height:22px}.theme-toggle[aria-checked=true] .theme-knob{transform:translateX(26px)}}
