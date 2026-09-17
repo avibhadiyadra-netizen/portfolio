@@ -8,8 +8,7 @@
     "sector": "Mission-Critical",
     "description": "AI data center fit-out for high-density computing: UPS, critical power and cooling systems",
     "delivery": "Construction Management",
-    "shortName": "Equinix · 80M Fit-Out",
-    "alias": "TR7 identifier pending reconciliation"
+    "shortName": "Equinix · 80M Fit-Out"
   },
   {
     "id": "added-equinix-20",
@@ -20,8 +19,7 @@
     "sector": "Mission-Critical",
     "description": "Data center project: critical power and cooling infrastructure",
     "delivery": "Construction Management",
-    "shortName": "Equinix · 20M Project",
-    "alias": "CR7 TR7 identifier pending reconciliation"
+    "shortName": "Equinix · 20M Project"
   },
   {
     "id": "added-barrie",
