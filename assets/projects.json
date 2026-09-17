@@ -6,7 +6,7 @@
     "approximate": false,
     "employer": "Pomerleau",
     "sector": "Mission-Critical",
-    "description": "AI data center fit-out supporting high-density computing",
+    "description": "AI data center fit-out for high-density computing: UPS, critical power and cooling systems",
     "delivery": "Construction Management",
     "shortName": "Equinix · 80M Fit-Out",
     "alias": "TR7 identifier pending reconciliation"
@@ -18,7 +18,7 @@
     "approximate": false,
     "employer": "Pomerleau",
     "sector": "Mission-Critical",
-    "description": "Data center project",
+    "description": "Data center project: critical power and cooling infrastructure",
     "delivery": "Construction Management",
     "shortName": "Equinix · 20M Project",
     "alias": "CR7 TR7 identifier pending reconciliation"
@@ -30,7 +30,7 @@
     "approximate": false,
     "employer": "Pomerleau",
     "sector": "Mission-Critical",
-    "description": "Data center preconstruction",
+    "description": "Data center preconstruction: critical power, cooling and site infrastructure",
     "delivery": "Lump Sum",
     "stage": "Preconstruction"
   },
@@ -41,7 +41,7 @@
     "approximate": false,
     "employer": null,
     "sector": "Healthcare",
-    "description": "Hospital expansion and modernization",
+    "description": "Hospital expansion and modernization: healthcare MEP and medical gas systems",
     "delivery": "GMP / Lump Sum"
   },
   {
@@ -51,7 +51,7 @@
     "approximate": true,
     "employer": "Pomerleau",
     "sector": "Institutional",
-    "description": "Police buildings and parking garage",
+    "description": "Police buildings and structured parking garage",
     "delivery": "Design-Build",
     "shortName": "OPP Buildings & Parking Garage"
   },
@@ -62,7 +62,7 @@
     "approximate": false,
     "employer": "Pomerleau",
     "sector": "Cultural",
-    "description": "Art gallery renovation",
+    "description": "Art gallery renovation with museum-grade climate control",
     "delivery": "Construction Management",
     "shortName": "McMichael Art Gallery"
   },
@@ -73,7 +73,7 @@
     "approximate": false,
     "employer": "Pomerleau",
     "sector": "Transit",
-    "description": "Bus facility redevelopment",
+    "description": "Bus maintenance and storage facility redevelopment",
     "delivery": "Lump Sum",
     "alias": "YRT OMSF Redevelopment",
     "shortName": "YRT Bus Facility"
@@ -85,7 +85,7 @@
     "approximate": false,
     "employer": null,
     "sector": "Laboratory & R&D",
-    "description": "100,000 sf laboratory and R&D facility",
+    "description": "100,000 sf laboratory and R&D facility with lab ventilation and specialty MEP",
     "delivery": "Design-Build"
   },
   {
@@ -95,7 +95,7 @@
     "approximate": false,
     "employer": null,
     "sector": "Civil & Infrastructure",
-    "description": "Site servicing and infrastructure package",
+    "description": "Site servicing and civil infrastructure package: underground utilities, roads and grading",
     "delivery": "GMP / Lump Sum"
   },
   {
@@ -105,7 +105,7 @@
     "approximate": false,
     "employer": null,
     "sector": "Industrial",
-    "description": "Industrial facility",
+    "description": "Industrial facility: structural steel framing and process utilities",
     "delivery": "Construction Management"
   },
   {
@@ -115,7 +115,7 @@
     "approximate": false,
     "employer": null,
     "sector": "Institutional",
-    "description": "280,000 sf archive and data storage facility",
+    "description": "High-security, climate-controlled 280,000 sf archive and data storage facility",
     "delivery": "Design-Build"
   },
   {
@@ -155,7 +155,7 @@
     "approximate": false,
     "employer": null,
     "sector": "Industrial",
-    "description": "Industrial facility upgrade and renovation",
+    "description": "Industrial facility upgrade and renovation: structural, electrical and mechanical systems",
     "delivery": "Construction Management"
   },
   {
